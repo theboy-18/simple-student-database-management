@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1747497979 source:c:\users\angel pinto\documents\ee 2 sem 1\coe 251\practical2\main.c
-	<stdio.h>
-	<stdlib.h>
-	<strings.h>
-	<math.h>
-	<ctype.h>
-
