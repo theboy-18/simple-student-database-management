@@ -1,0 +1,9 @@
+# Ignore build output
+/bin/
+/obj/
+*.exe
+*.o
+
+# Ignore Code::Blocks backup files
+*.depend
+*.layout
